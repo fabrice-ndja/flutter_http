@@ -1,0 +1,38 @@
+[
+    {
+        "nom": "Christelle Djafa",
+        "image": "assets/images/christy.png",
+        "email": "Christelle@gmail.com"
+    },
+    {
+        "nom": "Elsa Tano",
+        "image": "assets/images/elsa.png",
+        "email": "elsa@gmail.com"
+    },
+    {
+        "nom": "Fabrice N'dja",
+        "image": "assets/images/fabrice.png",
+        "email": "fabrice@gmail.com"
+    },
+    {
+        "nom": "Imma Yacé",
+        "image": "assets/images/imma.png",
+        "email": "imma@gmail.com"
+    },
+    {
+        "nom": "Sosthène Kra",
+        "image": "assets/images/kra.png",
+        "email": "kra@gmail.com"
+    },
+    {
+        "nom": "Noelle Koffi",
+        "image": "assets/images/noelle.png",
+        "email": "noelle@gmail.com"
+    },
+    {
+        "nom": "Rose Senasse",
+        "image": "assets/images/rose.png",
+        "email": "rose@gmail.com"
+    }
+
+]
